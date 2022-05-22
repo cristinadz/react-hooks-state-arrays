@@ -1,4 +1,5 @@
-const spicyFoods = [
+
+   const spicyFoods = [
   { id: 1, name: "Buffalo Wings", cuisine: "American", heatLevel: 3 },
   { id: 2, name: "Mapo Tofu", cuisine: "Sichuan", heatLevel: 6 },
 ];

@@ -7,7 +7,8 @@ function App() {
       <h3>SpicyFoodList</h3>
       <SpicyFoodList />
     </div>
-  );
+  );        
 }
+  
 
 export default App;
